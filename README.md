@@ -1,7 +1,6 @@
-<img src='images/logo.png' width=150px>
 Overview
 ========
-
+<img src='images/logo.png' align='right'>
 Aqueous is a project I started many years ago as as a PHP website.  I actually
 only got as far as the database design and life got in the way which didn't
 give me enough time to work on the project.  It is now at least 4 years since I
