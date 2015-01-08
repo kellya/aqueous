@@ -1,4 +1,4 @@
-![Aqueous Logo](images/logo.png)
+<img src='images/logo.png' width=150px>
 Overview
 ========
 
