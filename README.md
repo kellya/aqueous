@@ -1,4 +1,4 @@
-![Aqueous Logo](https://github.com/kellya/aqueous/blob/master/images/logo.svg)
+![Aqueous Logo](images/logo.png)
 Overview
 ========
 
