@@ -20,7 +20,7 @@ utilize whatever works for you, and of course is supported by Django.
 
 Goals
 =====
-With a projec that has been on the back-burner longer than I have actively
+With a project that has been on the back-burner longer than I have actively
 worked on it, I find it hard to define goals for the project at all.  But to
 give some idea of what I have in mind:
 
